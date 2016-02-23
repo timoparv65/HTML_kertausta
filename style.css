@@ -1,0 +1,30 @@
+/* Using element selector */
+p{
+    border: 2px solid yellow;
+    background-color: black;
+    color: white;
+}
+
+/* Using Id selector */
+#name{
+    font-size: 35px
+}
+
+/* Using class selector */
+/* hover */
+.list{
+    border: 2px solid black;
+    background-color: aqua;
+    border-radius: 5px
+}
+
+li:hover{
+    border-bottom: 2px solid black;
+    background-color: burlywood;
+}
+
+
+.test{
+    
+    color:red;
+}
